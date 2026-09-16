@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 
 /* Function to swap two elements */
