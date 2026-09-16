@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 
 /* Structure declaration */
